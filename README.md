@@ -1,4 +1,4 @@
-![logo](<https://github.com/usmankashif1/usmankashif1/blob/main/Blue%20and%20White%20Abstract%20Technology%20LinkedIn%20Banner%20(1).png>)
+![logo](<https://github.com/usmankashif1/usmankashif1/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png>)
 
 <h1 align="center">Hi 👋, I'm Usman Kashif</h1>
 <h3 align="center">A passionate React Native developer from Pakistan.</h3>
