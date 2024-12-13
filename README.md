@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React Native**
 
-- 📫 How to reach me **usman.codey@gmail.com**
+- 📫 How to reach me **usmankashifryk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
